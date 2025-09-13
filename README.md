@@ -20,4 +20,4 @@ Docker • ECS Fargate • Terraform • GitHub Actions • ALB • ECR • Moni
 ## Contact
 Toan Dao — Cloud Engineer  
 Email: tidiueter06@gmail.com  
-LinkedIn: https://www.linkedin.com/in/to%C3%A0n-%C4%91%C3%A0o-66b058356/
+LinkedIn: https://www.linkedin.com/in/toan-dao-66b058356
